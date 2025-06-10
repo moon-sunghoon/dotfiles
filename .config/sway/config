@@ -239,5 +239,6 @@ exec_always {
 }
 font pango:DepartureMono Nerd Font 10
 exec kanshi
+for_window [class=".*"] border pixel 2
 
 
